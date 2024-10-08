@@ -1,0 +1,25 @@
+:root {
+  --primary: #111827;
+  --secondary: #6b7280;
+  --tertiary: #374151;
+  --greycolor1: #e5e7eb;
+  --greycolor2: #9ca3af;
+  --greybackground1: #f6f6f6;
+  --greybackground2: #f3f4f6;
+  --greybackground3: rgba(51, 51, 51, 50%);
+  --greybackground4: #f9fafb;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter";
+  font-size: 1rem;
+  color: var(--primary);
+  background-color: var(--greybackground1);
+}
+
