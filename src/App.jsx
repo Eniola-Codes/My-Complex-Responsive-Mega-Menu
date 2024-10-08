@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Navbar from "./components/Layout/navbar";
+import Navbar from "./components/Layout/Navbar";
 import Options from "./components/Options/Options";
 import Sidebar from "./components/Layout/Sidebar";
 import { motion, AnimatePresence } from "framer-motion";
