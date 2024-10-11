@@ -219,6 +219,7 @@
 .sidebar .action_btn {
   font-weight: 600;
   border: none;
+  color: var(--primary);
   background-color: white;
   font-size: 14px;
   margin-top: 1rem;
@@ -282,7 +283,6 @@
   font-weight: 500;
   cursor: pointer;
   color: var(--primary);
-
 }
 
 @media only screen and (min-width: 1024px) {
